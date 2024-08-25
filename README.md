@@ -1,3 +1,17 @@
+# Directivas perzonalizadas 
+Este proyecto tiene como fin aprender mas sobre directivas personalizadas en Angular, una directiva perzonalizada a mi modo de ver es tomar el control de un elemento HTML y modificar este elemento en determinadas situaciones que quiere el programador mediante una etiqueta como vemos en Angular material entre otros. Para este ejemplo vamos a validar un input y el mensaje va a ir cambiando dependiendo de el error al digitar el usuario. El proyecto queda desplegado en GitHubPages
+
+
+#Validar que el input no este vacio 
+![1](https://github.com/user-attachments/assets/5a2c6640-15f0-40d3-9aff-fed0b12a91bb)
+#Validar que por lo menos hallan 6 caracteres
+![2](https://github.com/user-attachments/assets/58837bbf-e5b1-4ac9-a48f-dc743953ea5d)
+#Validar que tenga formato de correo 
+![3](https://github.com/user-attachments/assets/1d9b06ac-58b2-463e-bc1c-c43cbdd3cff0)
+#Input valido
+![4](https://github.com/user-attachments/assets/6d034061-e771-4a59-a932-1365ef935cc8)
+
+
 # DirectiveSignalsApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.1.
@@ -6,22 +20,3 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
